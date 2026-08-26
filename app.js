@@ -17,7 +17,7 @@ const apps = [
     category: "Tools",
 
     icon: "F",
-    iconImage: "image/Family-Ring.png",
+    iconImage: "image/FamilyRing.png",
 
     color: "linear-gradient(135deg, #2878ff, #063b9b)",
 
