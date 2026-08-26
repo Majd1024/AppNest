@@ -21,7 +21,7 @@ const apps = [
 
     color: "linear-gradient(135deg, #2878ff, #063b9b)",
 
-    apk: "APK/FamilyRing.apk"
+    apk: "apk/FamilyRing.apk"
   },
 
 
@@ -42,11 +42,11 @@ const apps = [
     category: "Travel",
 
     icon: "B",
-    iconImage: "Image/Berlin-Mobile.png",
+    iconImage: "image/Berlin-Mobile.png",
 
     color: "linear-gradient(135deg, #f5d28c, #d5a832)",
 
-    apk: "APK/Berlin Mobil.apk"
+    apk: "apk/Berlin Mobil.apk"
   },
 
 
@@ -239,11 +239,6 @@ function chooseFeaturedApp() {
 }
 
 
-/*
-  The featured app changes when
-  AppNest is freshly opened/reloaded.
-*/
-
 const featuredApp =
   chooseFeaturedApp();
 
@@ -264,7 +259,7 @@ function renderHome(
 
         <div class="store-logo">
           <img
-            src="Image/AppNest.png"
+            src="image/AppNest.png"
             alt="AppNest"
           >
         </div>

@@ -15,7 +15,7 @@
 
   "icons": [
     {
-      "src": "/Image/AppNest.png",
+      "src": "/image/AppNest.png",
       "sizes": "1254x1254",
       "type": "image/png",
       "purpose": "any maskable"
