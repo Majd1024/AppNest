@@ -67,7 +67,7 @@ const apps = [
     category: "Banking",
 
     icon: "€",
-    iconImage: "image/Sparkassi.png",
+    iconImage: "image/sparkassi.png",
 
     color: "linear-gradient(135deg, #f5d28c, #d5a832)",
 
