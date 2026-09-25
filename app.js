@@ -55,23 +55,23 @@ const apps = [
   ========================= */
 
   {
-    enabled: false,
-    id: "",
-    name: "",
-    developer: "",
-    description: "",
-    version: "",
-    size: "",
+    enabled: true,
+    id: "sparkassi",
+    name: "Sparkassi",
+    developer: "AppNest",
+    description: "A social networking app for Sparkassi users.",
+    version: "1.0",
+    size: "5.2 MB",
     rating: null,
-    reviews: "",
-    category: "",
+    reviews: "0",
+    category: "Banking",
 
-    icon: "",
-    iconImage: null,
+    icon: "€",
+    iconImage: "image/Sparkassi.png",
 
-    color: "",
+    color: "linear-gradient(135deg, #f5d28c, #d5a832)",
 
-    apk: ""
+    apk: "apk/Sparkassi.apk"
   },
 
 
