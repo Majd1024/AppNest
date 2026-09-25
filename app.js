@@ -71,7 +71,7 @@ const apps = [
 
     color: "linear-gradient(135deg, #f5d28c, #d5a832)",
 
-    apk: "apk/Sparkassi.apk"
+    apk: "apk/sparkassi.apk"
   },
 
 
